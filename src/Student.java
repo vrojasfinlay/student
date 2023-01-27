@@ -13,6 +13,6 @@ public class Student {
     private String address;
     
     public Student (String studentName, String studentId ){
-        
+        this.studentName = studentName;
     }
 }
