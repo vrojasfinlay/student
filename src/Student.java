@@ -6,6 +6,7 @@
 /**
  *added comment for pull - jan 27
  *comment for pull demonstration
+ *trial 2 for pull
  * @author victo
  */
 public class Student {
